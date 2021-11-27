@@ -1,2 +1,2 @@
 # TCCplantas
-Adicionando projeto no github
+Projeto de conclusão de curso - Etec

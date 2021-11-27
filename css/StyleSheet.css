@@ -1,0 +1,104 @@
+﻿
+
+.container-mae {
+    padding: 30px;
+    background-color: #ddddddd4;
+}
+
+:root {
+    --dark-green: #1a2f04;
+    --green: #5d8501;
+    --light-green: #bccb4a;
+    --gray: #d8d8d8;
+    --dark-gray: #7f7e79;
+}
+
+/* menu*/
+
+.estilo-menu {
+    position: fixed;
+    top: 0;
+    display: flex;
+    align-items: center;
+    background-color: #4bb503;
+    justify-content: center;
+    z-index: 999;
+    width: 100%;
+    height: 70px;
+    font-size: 20px;
+}
+
+.estilo-conteudo {
+    margin-top: 100px;
+}
+
+.conteudo-modal {
+    height: 300px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding-right: 15px;
+}
+
+/* página plantas e doenças */
+#plantas, #doencas {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 30px;
+    justify-content: flex-start;
+}
+
+
+/* layout dos itens das plantas e doenças */
+.card img {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.card {
+    text-align: center;
+    margin: 3px;
+}
+
+/* container página home
+#conteudo-principal h1 {
+    font-size: 36px; 
+    margin-bottom: 0.5em;
+}
+
+#conteudo-principal h2,
+#conteudo-secundario h1 {
+    font-size: 24px; 
+    margin-bottom: 0.5em;
+}
+
+#conteudo-secundario p {
+    font-size: 14px; 
+}
+
+#conteudo-principal ul,
+#conteudo-principal ol {
+    font-size: 16px; 
+    margin-left: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+#conteudo-principal ul {
+    list-style-type: square;
+}
+
+#conteudo-principal li {
+    margin-bottom: 0.3em; */
+
+
+
+
+/* modal */
+
+/* rodapé */
+
+
+/* carrossel */
